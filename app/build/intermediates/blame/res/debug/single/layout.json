@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_add_todo.xml",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\layout\\activity_add_todo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    }
+]
