@@ -60,7 +60,7 @@ public class TodoDAO {
 		List<Todo> todoList = new ArrayList<Todo>();
 		
 		// Name of the columns we want to select
-		String[] tableColumns = new String[] {"_id","todo"};
+		String[] tableColumns = new String[] {"_id","todo", "priority"};
 		
 		// Query the database
 		Cursor cursor = db.query("todos", tableColumns, null, null, null, null, null);

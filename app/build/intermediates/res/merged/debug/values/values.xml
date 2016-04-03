@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="ToDoPriority">ToDoP</string>
     <string name="ToDoTextHere">TODO TEXT GOES_HERE</string>
     <string name="app_name">ITCSQLiteExample</string>
     <string name="button_addnew">Add</string>

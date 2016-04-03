@@ -8,5 +8,6 @@
     <string name="button_menu_goback">Back</string>
     <string name="priority">P</string>
     <string name="ToDoTextHere">TODO TEXT GOES_HERE</string>
+    <string name="ToDoPriority">ToDoP</string>
 
 </resources>

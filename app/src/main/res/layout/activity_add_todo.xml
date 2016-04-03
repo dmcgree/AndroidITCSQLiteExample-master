@@ -20,7 +20,7 @@
 
         <EditText
             android:id="@+id/newPriortity"
-            android:layout_width="20dp"
+            android:layout_width="50dp"
             android:layout_height="wrap_content"
             android:ems="10" >
 

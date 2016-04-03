@@ -14,7 +14,7 @@ public class TodoSQLiteHelper extends SQLiteOpenHelper {
 
 	public TodoSQLiteHelper(Context context) {
 		// Databse: todos_db, Version: 1
-		super(context, "todos_db", null, 2);
+		super(context, "todos_db", null, 3);
 	}
 
 	/**

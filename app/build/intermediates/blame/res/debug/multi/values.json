@@ -7,17 +7,17 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 60,
-                    "endOffset": 111
+                    "endColumn": 46,
+                    "endOffset": 97
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 9,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 348,
-                        "endColumn": 60,
-                        "endOffset": 404
+                        "startOffset": 409,
+                        "endColumn": 46,
+                        "endOffset": 451
                     }
                 }
             },
@@ -25,9 +25,9 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 116,
-                    "endColumn": 53,
-                    "endOffset": 165
+                    "startOffset": 102,
+                    "endColumn": 60,
+                    "endOffset": 158
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
@@ -37,9 +37,9 @@
                 "to": {
                     "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 170,
-                    "endColumn": 45,
-                    "endOffset": 211
+                    "startOffset": 163,
+                    "endColumn": 53,
+                    "endOffset": 212
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
@@ -49,9 +49,9 @@
                 "to": {
                     "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 216,
-                    "endColumn": 51,
-                    "endOffset": 263
+                    "startOffset": 217,
+                    "endColumn": 45,
+                    "endOffset": 258
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
@@ -61,9 +61,9 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 268,
-                    "endColumn": 52,
-                    "endOffset": 316
+                    "startOffset": 263,
+                    "endColumn": 51,
+                    "endOffset": 310
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
@@ -73,9 +73,9 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 321,
-                    "endColumn": 47,
-                    "endOffset": 364
+                    "startOffset": 315,
+                    "endColumn": 52,
+                    "endOffset": 363
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
@@ -85,29 +85,34 @@
                 "to": {
                     "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 369,
-                    "endColumn": 38,
-                    "endOffset": 403
+                    "startOffset": 368,
+                    "endColumn": 47,
+                    "endOffset": 411
                 },
                 "from": {
-                    "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 309,
-                        "endColumn": 38,
-                        "endOffset": 343
-                    }
+                    "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 408,
-                    "endLine": 15,
+                    "startOffset": 416,
+                    "endColumn": 38,
+                    "endOffset": 450
+                },
+                "from": {
+                    "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 455,
+                    "endLine": 16,
                     "endColumn": 12,
-                    "endOffset": 694
+                    "endOffset": 741
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\styles.xml"
@@ -115,12 +120,12 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 699,
-                    "endLine": 18,
+                    "startOffset": 746,
+                    "endLine": 19,
                     "endColumn": 12,
-                    "endOffset": 854
+                    "endOffset": 901
                 },
                 "from": {
                     "file": "C:\\Users\\Dana\\AndroidStudioProjects\\AndroidITCSQLiteExample-master\\AndroidITCSQLiteExample-master\\app\\src\\main\\res\\values\\styles.xml"

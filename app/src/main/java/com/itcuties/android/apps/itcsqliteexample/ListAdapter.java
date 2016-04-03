@@ -2,6 +2,7 @@ package com.itcuties.android.apps.itcsqliteexample;
 
 import java.util.List;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -23,7 +24,7 @@ public class ListAdapter extends ArrayAdapter<Todo> {
     private final Context context;
     // List values
     private final List<Todo> todoList;
-	
+
 	public ListAdapter(Context context, List<Todo> todoList) {
 		super(context, R.layout.activity_main, todoList);
 		this.context = context;
@@ -34,10 +35,12 @@ public class ListAdapter extends ArrayAdapter<Todo> {
 	public View getView(int position, View convertView, ViewGroup parent) {
 		LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 		 
-        View rowView = inflater.inflate(R.layout.activity_main, parent, false);
+        @SuppressLint("ViewHolder") View rowView = inflater.inflate(R.layout.activity_main, parent, false);
          
         TextView todoText = (TextView) rowView.findViewById(R.id.todoText);
         todoText.setText(todoList.get(position).getText());
+		TextView todoPriority = (TextView) rowView.findViewById(R.id.todoPriority);
+		//todoPriority.setText(todoList.get(position).getPriority());
          
         return rowView;
 	}

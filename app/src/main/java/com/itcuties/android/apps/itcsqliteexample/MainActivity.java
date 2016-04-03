@@ -42,6 +42,7 @@ public class MainActivity extends ListActivity {
 		
 		// Delete TODO object from the database
 		dao.deleteTodo(todo.getId());
+
 		
 		// Set the list adapter and get TODOs list via DAO
 		setListAdapter(new ListAdapter(this, dao.getTodos()));
