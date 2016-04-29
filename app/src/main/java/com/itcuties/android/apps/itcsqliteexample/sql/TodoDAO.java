@@ -80,7 +80,6 @@ public class TodoDAO {
 	    	// Move to the next result
 	    	cursor.moveToNext();
 	    }
-		
 		return todoList;
 	}
 	

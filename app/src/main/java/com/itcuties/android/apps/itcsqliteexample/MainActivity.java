@@ -18,7 +18,7 @@ import com.itcuties.android.apps.itcsqliteexample.sql.TodoDAO;
  * @author itcuties
  *
  */
-public class MainActivity extends ListActivity {
+public class  MainActivity extends ListActivity {
 
 	// DAO
 	private TodoDAO dao;

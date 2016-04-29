@@ -33,7 +33,7 @@ public class AddTodoActivity extends Activity implements OnClickListener {
 		dao = new TodoDAO(this);
 		
 		todoText 		= (EditText)findViewById(R.id.newTodoText);
-		priority		= (EditText)findViewById(R.id.newPriortity);
+		priority		= (EditText)findViewById(R.id.newPriority);
 		addNewButton 	= (Button)findViewById(R.id.addNewTodoButton);
 		backButton		= (Button)findViewById(R.id.menuGoBackButton);
 		

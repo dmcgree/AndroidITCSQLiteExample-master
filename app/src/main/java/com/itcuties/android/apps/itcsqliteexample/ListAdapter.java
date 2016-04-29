@@ -36,11 +36,13 @@ public class ListAdapter extends ArrayAdapter<Todo> {
 		LayoutInflater inflater = (LayoutInflater) context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
 		 
         @SuppressLint("ViewHolder") View rowView = inflater.inflate(R.layout.activity_main, parent, false);
-         
+       // View rowView = inflater.inflate(R.layout.activity_main, parent, false);
+
         TextView todoText = (TextView) rowView.findViewById(R.id.todoText);
-        todoText.setText(todoList.get(position).getText());
 		TextView todoPriority = (TextView) rowView.findViewById(R.id.todoPriority);
-		//todoPriority.setText(todoList.get(position).getPriority());
+
+		todoText.setText(todoList.get(position).getText());
+		todoPriority.setText(String.valueOf(todoList.get(position).getPriority()));
          
         return rowView;
 	}

@@ -15,11 +15,10 @@
 
     <TextView
         android:id="@+id/todoPriority"
-        android:layout_width="50dp"
+        android:layout_width="65dp"
         android:layout_height="wrap_content"
         android:textColor="#000"
-        android:text="@string/ToDoPriority"
-        android:layout_weight="0.75">
+        android:text="@string/ToDoPriority">
     </TextView>
     
 </LinearLayout>

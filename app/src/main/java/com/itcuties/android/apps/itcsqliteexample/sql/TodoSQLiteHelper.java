@@ -14,7 +14,7 @@ public class TodoSQLiteHelper extends SQLiteOpenHelper {
 
 	public TodoSQLiteHelper(Context context) {
 		// Databse: todos_db, Version: 1
-		super(context, "todos_db", null, 3);
+		super(context, "todo_db", null, 1);
 	}
 
 	/**
@@ -22,6 +22,7 @@ public class TodoSQLiteHelper extends SQLiteOpenHelper {
 	 * todos
 	 * 		_id 	- key
 	 * 		todo	- todo text
+	 * 	 priority   - priority level
 	 */
 	@Override
 	public void onCreate(SQLiteDatabase db) {
